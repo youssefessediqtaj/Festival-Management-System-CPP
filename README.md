@@ -212,3 +212,7 @@ This project is open source and available under the MIT License.
 - Designed for educational purposes to demonstrate C++ OOP concepts
 - Follows good C++ practices including encapsulation, constructors, and destructors
 - Implements proper separation of interface and implementation using header files
+
+### Additional Notes
+- Consider adding screenshots or diagrams to illustrate system architecture or menu options.
+- Explore options for data persistence (e.g., file storage or database integration) to retain data across application runs.

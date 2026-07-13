@@ -12,6 +12,7 @@ A comprehensive C++ application designed to manage festival operations including
 - [Menu Options](#menu-options)
 - [Contributing](#contributing)
 - [License](#license)
+- [Future Improvements](#future-improvements)
 
 ## Project Overview
 
@@ -207,12 +208,9 @@ The current implementation stores all data in memory during runtime. Data is los
 
 This project is open source and available under the MIT License.
 
-## Acknowledgments
+## Future Improvements
 
-- Designed for educational purposes to demonstrate C++ OOP concepts
-- Follows good C++ practices including encapsulation, constructors, and destructors
-- Implements proper separation of interface and implementation using header files
-
-### Additional Notes
-- Consider adding screenshots or diagrams to illustrate system architecture or menu options.
-- Explore options for data persistence (e.g., file storage or database integration) to retain data across application runs.
+- Add screenshots or diagrams to illustrate system architecture or menu options.
+- Implement data persistence (e.g., file storage or database integration) to retain data across application runs.
+- Add unit tests to ensure code reliability and maintainability.
+- Create a detailed CONTRIBUTING.md file to guide new contributors.
